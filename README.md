@@ -1,2 +1,3 @@
 # DecodedCNTK
-Deep Learning with CNTK
+
+Resources from my "Deep Learning with CNTK" talk at #DECODEDconf 2016
